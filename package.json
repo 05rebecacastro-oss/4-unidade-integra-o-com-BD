@@ -1,0 +1,31 @@
+{
+  "name": "4-unidade-integra-o-com-bd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/05rebecacastro-oss/4-unidade-integra-o-com-BD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/05rebecacastro-oss/4-unidade-integra-o-com-BD/issues"
+  },
+  "homepage": "https://github.com/05rebecacastro-oss/4-unidade-integra-o-com-BD#readme",
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
